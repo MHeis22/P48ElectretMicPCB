@@ -7700,7 +7700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 193.04 82.55 0)
 			(effects
 				(font

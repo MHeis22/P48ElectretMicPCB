@@ -4,8 +4,7 @@ Qty,Reference,Value,Footprint,Manufacturer_Part_Number,Description
 3,"C6, C7, C8",100pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0603N101F101CT,Unpolarized capacitor
 1,C10,10uF,SamacSys_Parts:CAPAE660X850N,AEH0608100M050R,Aluminium Electrolytic Capacitors - SMD 50V 10uF 5000Hrs 20%
 1,D1,D_Zener 8.2V,Diode_SMD:D_SOD-123,BZT52-B8V2_R1_00001,Zener diode
-1,D2,SMAJ58CA,Diode_SMD:D_SMA,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
-1,D3,SMAJ58CA,Diode_SMD:D_SMA_Handsoldering,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
+2,"D2, D3",SMAJ58CA,Diode_SMD:D_SMA_Handsoldering,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
 1,IC1,OPA1678IDR,SamacSys_Parts:SOIC127P600X175-8N,OPA1678IDR,"Dual low distortion, low noise, tool box audio op amp&nbsp;"
 1,J3,XLR3,,502-C3M,"XLR Connector, Male or Female, 3 Pins"
 1,R1,330,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB331V,Resistor

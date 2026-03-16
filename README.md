@@ -14,7 +14,7 @@ Not yet tested and assembled. Ordered from JLC.
 | **Total Components** | 27 |
 | **SMD Components** | 21 |
 | **THT Components** | 4 |
-| **Unique Parts** | 33 |
+| **Unique Parts** | 32 |
 | **KiCad Version** | 9.0.7 |
 
 ### 📐 Manufacturing & DRC
