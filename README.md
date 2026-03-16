@@ -26,7 +26,7 @@ Not yet tested and assembled. Ordered from JLC.
 - **Power Domains:** `GND`
 
 ### ⚙️ Mechanical
-- **Mounting Holes:** 2 (H1, H2)
+- **Mounting Holes:** 2 (H1 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom), H2 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom))
 
 ### 🚫 Do Not Populate (DNP)
 - C11 (33uF)
