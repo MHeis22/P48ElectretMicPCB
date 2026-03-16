@@ -2330,7 +2330,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Do not use ceramic caps from X or Y series for signals.\nCapacitors should be rated for >=63 VDC\nBuy 2x of everything\nMatch the 33uF DC blocking caps (C12, C13) as close as possible with a multimeter/LCR meter\nDC voltage at TP U1A+ should be 4.1 V (or atleast between 3.5 V-4.7 V) ! Change R2 value.\n\nChange R1 value to a larger one up to 330 Ohm if not clipping when R2 is balanced."
+	(text "Do not use ceramic caps from X or Y series for signals.\nCapacitors should be rated for >=63 VDC\nBuy 2x of everything\nDC voltage at TP U1A+ should be half of VCC (or atleast between 3.5 V-4.7 V) ! Change R2 value.\n\nChange R1 value to a larger one up to 330 Ohm if not clipping when R2 is balanced."
 		(exclude_from_sim no)
 		(at 89.916 36.322 0)
 		(effects

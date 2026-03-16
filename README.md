@@ -11,10 +11,11 @@ Not yet tested and assembled. Ordered from JLC.
 | **Board Dimensions** | 37.0 x 52.0 mm |
 | **Total Area** | 1815.98 mm² |
 | **Layer Count** | 2 Copper Layers |
-| **Total Components** | 38 |
+| **Total Components** | 27 |
 | **SMD Components** | 21 |
 | **THT Components** | 4 |
-| **Unique Parts** | 35 |
+| **Unique Parts** | 26 |
+| **DRC Status** | ✅ Clean (0 Errors, 0 Warnings) |
 | **KiCad Version** | 9.0.7 |
 
 ### 📐 Manufacturing & DRC
