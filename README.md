@@ -14,7 +14,7 @@ Not yet tested and assembled. Ordered from JLC.
 | **Total Components** | 27 |
 | **SMD Components** | 21 |
 | **THT Components** | 4 |
-| **Unique Parts** | 26 |
+| **Unique Parts** | 33 |
 | **KiCad Version** | 9.0.7 |
 
 ### 📐 Manufacturing & DRC
@@ -46,6 +46,7 @@ Not yet tested and assembled. Ordered from JLC.
 ### 🧠 Core ICs & Modules
 | Reference | Component | Function / Description |
 | :--- | :--- | :--- |
+| U1 | OPA1678 | Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8 |
 | IC1 | [OPA1678IDR](https://octopart.com/search?q=OPA1678IDR&currency=EUR) | Dual low distortion, low noise, tool box audio op amp&nbsp; |
 
 ### 🔌 Connectors & Interfaces
@@ -53,13 +54,14 @@ Not yet tested and assembled. Ordered from JLC.
 | :--- | :--- | :--- | :--- |
 | J1 | Connector | MIC | Generic connector, single row, 01x02, script generated |
 | J2 | Connector | XLR3 | XLR Connector, Male or Female, 3 Pins |
+| J3 | Connector | [XLR3](https://octopart.com/search?q=502-C3M&currency=EUR) | XLR Connector, Male or Female, 3 Pins |
 
 ### 📏 Passive Components
 | Component | Breakdown |
 | :--- | :--- |
-| Capacitor | 5x0603 and 5xOther |
+| Capacitor | 5x0603 and 8xOther |
 | Diode | 3xOther |
-| Resistor | 9x0603 |
+| Resistor | 17x0603 |
 
 ---
 <!-- KICAD_DIFF_GEN_END -->

@@ -1,17 +1,23 @@
 Qty,Reference,Value,Footprint,Manufacturer_Part_Number,Description
-2,"R5, R9",100,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-1000ELF,Resistor
+3,"R17, R5, R9",100,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-1000ELF,Resistor
 1,R6,100k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB104V,Resistor
 3,"C6, C7, C8",100pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0603N101F101CT,Unpolarized capacitor
+1,R13,10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB103V,Resistor
 1,C10,10uF,SamacSys_Parts:CAPAE660X850N,AEH0608100M050R,Aluminium Electrolytic Capacitors - SMD 50V 10uF 5000Hrs 20%
+1,R14,12k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB123V,Resistor
+1,R15,15k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RP0603BRD0715KL,Resistor
 2,"R7, R8",1k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RP0603BRD071KL,Resistor
 2,"R3, R4",2.2k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB222V,Resistor
+1,R16,220,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB221V,Resistor
 2,"C5, C9",3.3uF,Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4,R66DD4330AA6AJ,Film Capacitors 63V 3.3 uF 105C 5% 2 Pin LS=7.5 mm AEC-Q200
 1,R1,330,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB331V,Resistor
-2,"C3, C4",33uF,Capacitor_SMD:C_Elec_8x10.2,EEE-FK1J330V,Polarized capacitor
+5,"C11, C12, C13, C3, C4",33uF,Capacitor_SMD:C_Elec_8x10.2,EEE-FK1J330V,Polarized capacitor
+1,R10,4.7k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB472V,Resistor
+1,R11,5.6k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB562V,Resistor
 1,R2,6.8k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-6801ELF,Resistor
+1,R12,8.2k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RT0603BRD078K2L,Resistor
 1,C,AEF0608100M100R,CAPAE660X850N,AEF0608100M100R,Aluminum Electrolytic Capacitors - SMD 100V 10uF 2000Hours ESR=5.5Ohms 20%
 1,D1,D_Zener 8.2V,Diode_SMD:D_SOD-123,BZT52-B8V2_R1_00001,Zener diode
-19,"#PWR, #PWR01, #PWR010, #PWR011, #PWR012, #PWR013, #PWR014, #PWR015, #PWR016, #PWR017, #PWR018, #PWR02, #PWR03, #PWR04, #PWR05, #PWR06, #PWR07, #PWR08, #PWR09",GND,,,Power symbol creates a global label with name \
 1,U,OPA1678,,,"Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8"
 1,IC,OPA1678IDR,SOIC127P600X175-8N,OPA1678IDR,"Dual low distortion, low noise, tool box audio op amp&nbsp;"
 1,IC1,OPA1678IDR,SamacSys_Parts:SOIC127P600X175-8N,OPA1678IDR,"Dual low distortion, low noise, tool box audio op amp&nbsp;"
@@ -20,3 +26,4 @@ Qty,Reference,Value,Footprint,Manufacturer_Part_Number,Description
 1,D2,SMAJ58CA,Diode_SMD:D_SMA,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
 1,D3,SMAJ58CA,Diode_SMD:D_SMA_Handsoldering,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
 1,J,XLR3,,,"XLR Connector, Male or Female, 3 Pins"
+1,J3,XLR3,,502-C3M,"XLR Connector, Male or Female, 3 Pins"
