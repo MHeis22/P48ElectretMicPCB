@@ -11,7 +11,7 @@ Not yet tested and assembled. Ordered from JLC.
 | **Board Dimensions** | 37.0 x 52.0 mm |
 | **Total Area** | 1815.98 mm² |
 | **Layer Count** | 2 Copper Layers |
-| **Board Thickness** | 0.01 mm |
+| **Board Thickness** | Unknown |
 | **Total Components** | 38 |
 | **SMD Components** | 21 |
 | **THT Components** | 4 |
