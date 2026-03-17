@@ -20,7 +20,7 @@ Not yet tested and assembled. Ordered from JLC.
 ### 📐 Manufacturing & DRC
 | Metric | Value |
 | :--- | :--- |
-| **Vias** | 229 Total (229 TH, 0 Blind, 0 Micro) |
+| **Vias** | 234 Total (234 TH, 0 Blind, 0 Micro) |
 
 ### 📄 Architecture
 - **Power Domains:** `GND`

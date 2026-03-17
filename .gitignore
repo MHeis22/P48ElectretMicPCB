@@ -15,6 +15,7 @@ fp-info-cache
 
 # Generated files
 *.bck
+*.lck
 *.kicad_pcb-shl
 python_environment/
 
