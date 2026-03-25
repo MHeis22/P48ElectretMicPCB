@@ -1,4 +1,4 @@
-Not yet tested and assembled. Ordered from JLC.
+Ordered the PCBs from JLCPCB and components from Mouser. Initial test on 26.3.26 provided great results. Noticeably less bass heavy than the Fifine K688 which was used with XLR. Both microphones tested on a Scarlett 2i2 4th generation.
 
 <!-- KICAD_DIFF_GEN_START -->
 ---
