@@ -14,54 +14,41 @@ Not yet tested and assembled. Ordered from JLC.
 | **Total Components** | 27 |
 | **SMD Components** | 21 |
 | **THT Components** | 4 |
-| **Unique Parts** | 32 |
+| **Unique Parts** | 25 |
 | **KiCad Version** | 9.0.7 |
 
 ### 📐 Manufacturing & DRC
 | Metric | Value |
 | :--- | :--- |
-| **Vias** | 225 Total (225 TH, 0 Blind, 0 Micro) |
+| **Vias** | 229 Total (229 TH, 0 Blind, 0 Micro) |
 
 ### 📄 Architecture
 - **Power Domains:** `GND`
 
 ### ⚙️ Mechanical
-- **Mounting Holes:** 2 (H1 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom), H2 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom))
+- **Mounting Holes:** 2 (H1 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom), H2 (MountingHole_2.5mm))
 
 ### 🚫 Do Not Populate (DNP)
-- C11 (33uF)
-- C12 (33uF)
-- C13 (33uF)
 - J3 (XLR3)
-- R10 (4.7k)
-- R11 (5.6k)
-- R12 (8.2k)
-- R13 (10k)
-- R14 (12k)
-- R15 (15k)
-- R16 (220)
-- R17 (100)
-- U1 (OPA1678)
 
 ### 🧠 Core ICs & Modules
 | Reference | Component | Function / Description |
 | :--- | :--- | :--- |
-| U1 | OPA1678 | Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8 |
-| IC1 | [OPA1678IDR](https://octopart.com/search?q=OPA1678IDR&currency=EUR) | Dual low distortion, low noise, tool box audio op amp&nbsp; |
+| U1 | [OPA1678](https://octopart.com/search?q=OPA1678IDR&currency=EUR) | Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8 |
 
 ### 🔌 Connectors & Interfaces
 | Reference | Type | Component | Description |
 | :--- | :--- | :--- | :--- |
-| J1 | Connector | MIC | Generic connector, single row, 01x02, script generated |
-| J2 | Connector | XLR3 | XLR Connector, Male or Female, 3 Pins |
-| J3 | Connector | [XLR3](https://octopart.com/search?q=502-C3M&currency=EUR) | XLR Connector, Male or Female, 3 Pins |
+| J1 | Connector | [MIC](https://octopart.com/search?q=TBC05-02-1-G-G&currency=EUR) | Generic connector, single row, 01x02, script generated |
+| J2 | Connector | [XLR3](https://octopart.com/search?q=TBC05-03-1-G-G&currency=EUR) | Header for XLR pins |
+| J3 | Connector | [XLR3](https://octopart.com/search?q=502-C3M&currency=EUR) | XLR Connector, Female, 3 Pins |
 
 ### 📏 Passive Components
 | Component | Breakdown |
 | :--- | :--- |
-| Capacitor | 5x0603 and 8xOther |
+| Capacitor | 5x0603 and 5xOther |
 | Diode | 3xOther |
-| Resistor | 17x0603 |
+| Resistor | 9x0603 |
 
 ---
 <!-- KICAD_DIFF_GEN_END -->

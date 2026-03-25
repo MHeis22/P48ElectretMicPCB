@@ -1,22 +1,17 @@
 Qty,Reference,Value,Footprint,Manufacturer_Part_Number,Description
-5,"C3, C4, C11, C12, C13",33uF,Capacitor_SMD:C_Elec_8x10.2,EEE-FK1J330V,Polarized capacitor
-2,"C5, C9",3.3uF,Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4,R66DD4330AA6AJ,Film Capacitors 63V 3.3 uF 105C 5% 2 Pin LS=7.5 mm AEC-Q200
-3,"C6, C7, C8",100pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0603N101F101CT,Unpolarized capacitor
-1,C10,10uF,SamacSys_Parts:CAPAE660X850N,AEH0608100M050R,Aluminium Electrolytic Capacitors - SMD 50V 10uF 5000Hrs 20%
+3,"C1, C9, C10",100pF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,0603N101F101CT,Unpolarized capacitor
+1,C3,10uF,SamacSys_Parts:CAPAE660X850N,AEH0608100M050R,Aluminium Electrolytic Capacitors - SMD 50V 10uF 5000Hrs 20%
+2,"C5, C8",33uF,Capacitor_SMD:C_Elec_8x10.2,EEE-FK1J330V,Polarized capacitor
+2,"C6, C7",3.3uF,Capacitor_THT:C_Rect_L10.3mm_W5.7mm_P7.50mm_MKS4,R66DD4330AA6AJ,Film Capacitors 63V 3.3 uF 105C 5% 2 Pin LS=7.5 mm AEC-Q200
 1,D1,D_Zener 8.2V,Diode_SMD:D_SOD-123,BZT52-B8V2_R1_00001,Zener diode
 2,"D2, D3",SMAJ58CA,Diode_SMD:D_SMA_Handsoldering,710-824501581,"400W bidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"
-1,IC1,OPA1678IDR,SamacSys_Parts:SOIC127P600X175-8N,OPA1678IDR,"Dual low distortion, low noise, tool box audio op amp&nbsp;"
-1,J3,XLR3,,502-C3M,"XLR Connector, Male or Female, 3 Pins"
-1,R1,330,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB331V,Resistor
-1,R2,6.8k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-6801ELF,Resistor
-2,"R3, R4",2.2k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB222V,Resistor
-3,"R5, R9, R17",100,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-1000ELF,Resistor
-1,R6,100k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB104V,Resistor
-2,"R7, R8",1k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RP0603BRD071KL,Resistor
-1,R10,4.7k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB472V,Resistor
-1,R11,5.6k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB562V,Resistor
-1,R12,8.2k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RT0603BRD078K2L,Resistor
-1,R13,10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB103V,Resistor
-1,R14,12k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB123V,Resistor
-1,R15,15k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RP0603BRD0715KL,Resistor
-1,R16,220,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB221V,Resistor
+1,J1,MIC,Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical,TBC05-02-1-G-G,"Generic connector, single row, 01x02, script generated"
+1,J2,XLR3,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,TBC05-03-1-G-G,Header for XLR pins
+1,J3,XLR3,,502-C3M,"XLR Connector, Female, 3 Pins"
+1,R1,7.5k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-1AEB752C,Resistor
+1,R2,100k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB104V,Resistor
+2,"R3, R4",1k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RP0603BRD071KL,Resistor
+2,"R5, R6",100,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,CRT0603ABY-1000ELF,Resistor
+1,R7,330,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB331V,Resistor
+2,"R8, R9",2.2k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,ERA-3AEB222V,Resistor
+1,U1,OPA1678,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,OPA1678IDR,"Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8"
