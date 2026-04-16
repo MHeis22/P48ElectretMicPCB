@@ -1,6 +1,12 @@
-# KiCad backups and autosaves
-*.bak
+# KiCad modern backups (KiCad 7+)
 *-backups/
+
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad legacy backups and autosaves
+*.bak
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *.kicad_pro-bak
@@ -13,9 +19,15 @@ _autosave-*
 # KiCad caches
 fp-info-cache
 
+# Plugin Temporary Files
+tmp_git_old_*
+
+# IDE & History Folders
+.history/
+.history_trim/
+
 # Generated files
 *.bck
-*.lck
 *.kicad_pcb-shl
 python_environment/
 
