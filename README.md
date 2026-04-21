@@ -20,13 +20,13 @@ Ordered the PCBs from JLCPCB and components from Mouser. Initial test on 26.3.26
 ### 📐 Manufacturing & DRC
 | Metric | Value |
 | :--- | :--- |
-| **Vias** | 227 Total (227 TH, 0 Blind, 0 Micro) |
+| **Vias** | 235 Total (235 TH, 0 Blind, 0 Micro) |
 
 ### 📄 Architecture
 - **Power Domains:** `GND`
 
 ### ⚙️ Mechanical
-- **Mounting Holes:** 2 (H1 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom), H2 (MountingHole_2.5mm))
+- **Mounting Holes:** 2 (H2 (MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom), H1 (MountingHole_2.5mm))
 
 ### 🚫 Do Not Populate (DNP)
 - J3 (XLR3)
@@ -39,8 +39,8 @@ Ordered the PCBs from JLCPCB and components from Mouser. Initial test on 26.3.26
 ### 🔌 Connectors & Interfaces
 | Reference | Type | Component | Description |
 | :--- | :--- | :--- | :--- |
-| J1 | Connector | [MIC](https://octopart.com/search?q=TBC05-02-1-G-G&currency=EUR) | Generic connector, single row, 01x02, script generated |
-| J2 | Connector | [XLR3](https://octopart.com/search?q=TBC05-03-1-G-G&currency=EUR) | Header for XLR pins |
+| J2 | Connector | [MIC](https://octopart.com/search?q=TBC05-02-1-G-G&currency=EUR) | Generic connector, single row, 01x02, script generated |
+| J1 | Connector | [XLR3](https://octopart.com/search?q=TBC05-03-1-G-G&currency=EUR) | Header for XLR pins |
 | J3 | Connector | [XLR3](https://octopart.com/search?q=502-C3M&currency=EUR) | XLR Connector, Female, 3 Pins |
 
 ### 📏 Passive Components
